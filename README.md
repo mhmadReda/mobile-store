@@ -1,2 +1,2 @@
-# mobile-store
-mobile store
+
+## simple mopile inline shop
